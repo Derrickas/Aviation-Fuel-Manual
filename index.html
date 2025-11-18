@@ -1,36 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
-  <title>Aviation Fuel Quality Control Manual</title>
-  <meta name="description" content="Online version of the Aviation Fuel Quality Control Manual with full-text search and chapter navigation">
+  <title>Aviation Fuel QC Manual</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-  <style>
-    .sidebar-nav { font-size: 15px; }
-    .search input { border-radius: 20px; }
-  </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple.css">
 </head>
 <body>
   <div id="app"></div>
-
   <script>
     window.$docsify = {
       name: 'Aviation Fuel QC Manual',
-      repo: 'https://github.com/Derrickas/Aviation-Fuel-Manual', // change to your real username/repo
-      loadSidebar: true,        // auto-generates chapter menu from your # headings
-      subMaxLevel: 4,           // shows up to #### subheadings in sidebar
-      search: 'auto',           // enables full-text search
-      themeable: true,          // adds light/dark mode switch
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      }
-    }                                                                                       
+      repo: 'Derrickas/aviation-fuel-manual',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      search: 'auto'
+    }
   </script>
-
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
-
