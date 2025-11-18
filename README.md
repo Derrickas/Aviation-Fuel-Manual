@@ -1,21 +1,13 @@
 # Aviation Fuel Quality Control Manual
 
-![](./image1.jpg){width="5.010214348206474in" height="1.35in"}
 
 **Aviation Fuel Quality Control Manual**
 
 > **November 2025**
 >
-> ![](./image2.jpg){width="7.195833333333334in"
-> height="5.090972222222222in"}![](./image3.png){width="7.196666666666666in"
-> height="5.09in"}
->
-> ![](./image6.jpg){width="5.523559711286089in"
-> height="0.9541666666666667in"}**Aviation Fuel**
 >
 > Quality Control Manual
 
-**THIS PAGE INTENTIONALLY LEFT BLANK**
 
 **10.1 INDEX**
 
@@ -287,7 +279,7 @@ section 2.1.4 of ATA 103 and the carrier\'s procedures.**
 
 **WAIVERS AFQC-20**
 
-## **THIS PAGE INTENTIONALLY LEFT BLANK** 
+
 
 > **SUMMARY:**
 >
@@ -514,7 +506,6 @@ November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-### THIS PAGE INTENTIONALLY LEFT BLANK 
 
 November 2025 © 2024 FSM Group
 
@@ -780,7 +771,7 @@ d.  Gammon and Shultz filter differential pressure gauges must be
 
 ## ••• 
 
-**THIS PAGE INTENTIONALLY LEFT BLANK**
+
 
 ### MISFUELING PREVENTION AFQC-60 
 
@@ -1953,7 +1944,7 @@ d.  Never put metal or conductive objects (such as gauge tapes, sample
 
 ### •••• 
 
-**THIS PAGE INTENTIONALLY LEFT BLANK**
+
 
 > **AIRPORT STORAGE AFQC-200**
 
@@ -2889,7 +2880,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
   EFSO Control Devices                           2.7.4.4
   -----------------------------------------------------------------------
 
-**THIS PAGE INTENTIONALLY LEFT BLANK**
+
 
 > **300.1 GENERAL**
 >
@@ -5020,7 +5011,7 @@ g.  Selected product tests and expected acceptance criteria are to be
 
 **DEFUELPROCEDURES AFQC-500**
 
-####### THIS PAGE INTENTIONALLY LEFT BLANK 
+
 
 November 2025 © 2024 FSM Group
 
@@ -5504,7 +5495,7 @@ November 2025 © 2024 FSM Group
 
 **DOCUMENTATION (RECORDS) AFQC-700**
 
-######## THIS PAGE INTENTIONALLY LEFT BLANK 
+
 
 November 2025 © 2024 FSM Group
 
@@ -5753,7 +5744,7 @@ November 2025 © 2024 FSM Group
 
 **INSTRUCTORS GUIDE AFQC-900**
 
-######### THIS PAGE INTENTIONALLY LEFT BLANK 
+
 
 November 2025 © 2024 FSM Group
 
@@ -5820,3 +5811,4 @@ November 2025 © 2024 FSM Group
 November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
+
