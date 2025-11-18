@@ -1,3 +1,6 @@
+
+* [Home](/)
+* [Guide](guide.md)
 - [Home](README.md)
 - - [Chapter 1 – Introduction](01-introduction.md)
   - - [Chapter 2 – Sampling](02-sampling.md)
@@ -15,6 +18,7 @@
 - [ASTM D1655 – Jet Fuel Specification](https://www.astm.org/d1655.html) 
 
 - [EI/JIG 1530 – Quality Assurance](https://www.energyinst.org/technical/publications
+
 
 
 
