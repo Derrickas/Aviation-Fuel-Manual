@@ -1,4 +1,4 @@
-# Aviation Fuel Quality Control Manual
+ Aviation Fuel Quality Control Manual
 
 
 **Aviation Fuel Quality Control Manual**
@@ -21,8 +21,7 @@ RECORD OF REVISIONS............................................. 10.2
 SUMMARY OF CHANGES........................................... 10.3
 
 **020
-WAIVERS**............................................................\...
-**AFQC-20**
+WAIVERS**...........................................\...**AFQC-20**
 
 **030 PROGRAM POLCIY AND RESPONSIBILITY**.......... **AFQC-30**
 
@@ -40,17 +39,13 @@ LOCATION OF CUSTOMER NOTIFICATION LIST.........\... 40.4
 **050 TOOL CALIBRATION**..........................................\...
 **AFQC-50**
 
-OBJECTIVE............................................................\...
-50.1
+OBJECTIVE.....................................................\...50.1
 
-FREQUENCY............................................................
-50.2
+FREQUENCY.........................................................50.2
 
-PROCEDURE.............................................................
-50.3
+PROCEDURE.........................................................50.3
 
-RECORDS.................................................................
-50.4
+RECORDS...........................................................50.4
 
 RESPONSIBILITY OF LOCAL CALIBRATION PROGRAM\... 50.5
 
@@ -100,7 +95,8 @@ CONTMINANTS.........................................................
 STATIC ELECTRICITY...\..............................................
 100.6
 
-#  **200 AIRPORT STORAGE**......................................................\... **AFQC-200** 
+  **200 AIRPORT STORAGE**
+......................................................\... **AFQC-200** 
 
 > FUEL STORAGE FACILITY REQUIREMENTS.............................. 200.1
 > FILTERS.............................................................................\...
@@ -112,7 +108,7 @@ STATIC ELECTRICITY...\..............................................
 
 FUEL FACILITY CHECKS AND INSPECTIONS............................. 200.6
 
-##  FUEL FACILITY DAILY QUALITY CONTROL CHECKS\...............\... 200.7 FUEL FACILITY WEEKLY CHECKS........................................... 200.8 FUEL FACILITY MONTHLY CHECKS......................................... 200.9 
+  FUEL FACILITY DAILY QUALITY CONTROL CHECKS\...............\... 200.7 FUEL FACILITY WEEKLY CHECKS........................................... 200.8 FUEL FACILITY MONTHLY CHECKS......................................... 200.9 
 
 FUEL FACILITY QUARTERLY QUALITY CONTROL CHECKS........ 200.10 FUEL
 FACILITY SEMI-ANNUAL CHECKS......\............................. 200.11
@@ -121,7 +117,7 @@ FUEL FACILITY ANNUAL
 CHECKS.........\......\............................. 200.12 HYDRANT
 QUALITY CONTROL CHECKS......\............................. 200.13
 
-##  HYDRANT SYSTEM DAILY CHECKS............\...........................\... 200.14 HYDRANT SYSTEM WEEKLY CHECKS.........\............................. 200.15 
+  HYDRANT SYSTEM DAILY CHECKS............\...........................\... 200.14 HYDRANT SYSTEM WEEKLY CHECKS.........\............................. 200.15 
 
 HYDRANT SYSTEM MONTHLY CHECKS......\..............................
 200.16 HYDRANT SYSTEM QUARTERLY CHECKS................................
@@ -130,11 +126,11 @@ HYDRANT SYSTEM MONTHLY CHECKS......\..............................
 HYDRANT SYSTEM ANNUAL CHECKS......\................................
 200.18
 
-#  **300 RECEIPT OF FUEL**....................................................\...\...\...\... **AFQC-200** 
+  **300 RECEIPT OF FUEL**....................................................\...\...\...\... **AFQC-200** 
 
-##  GENERAL............................................................................. 300.1 JET FUEL RECEIVING SPECIFICATION & PURITY STANDARDS.... 300.2 AVGAS FUEL RECEIVING SPECICATION & PURITY STANADRS... 300.3 MISCELLANEOUS.................................................................. 300.4 REFUELING TRUCK LOADING STATION...\................................. 300.5 FUEL FACILITY CHECKS AND INSPECTIONS............................. 300.6 
+  GENERAL............................................................................. 300.1 JET FUEL RECEIVING SPECIFICATION & PURITY STANDARDS.... 300.2 AVGAS FUEL RECEIVING SPECICATION & PURITY STANADRS... 300.3 MISCELLANEOUS.................................................................. 300.4 REFUELING TRUCK LOADING STATION...\................................. 300.5 FUEL FACILITY CHECKS AND INSPECTIONS............................. 300.6 
 
-##  FUEL FACILITY DAILY QUALITY CONTROL CHECKS\...............\... 300.7 FUEL FACILITY WEEKLY CHECKS........................................... 300.8 
+  FUEL FACILITY DAILY QUALITY CONTROL CHECKS\...............\... 300.7 FUEL FACILITY WEEKLY CHECKS........................................... 300.8 
 
 **400 AIRCRAFT FUELING EQUIPMENT**..................\..................
 **AFQC-400**
@@ -150,7 +146,7 @@ HYDRANT SYSTEM ANNUAL CHECKS......\................................
 > 400.7 FUELING EQUIPMENT ANNUAL
 > CHECKS..............................\..... 400.8
 
-##  REFUELER LOADING PROCEDURES......................................... 400.9 
+  REFUELER LOADING PROCEDURES......................................... 400.9 
 
 **500 DEFUEL
 PROCEDURES**..................................................\...
@@ -171,7 +167,7 @@ DEFUEL FOR POSSIBLE CONTAMINATION..............................\...
 > PROCEDURES.......................................................................
 > 600.3
 
-#  **700 FORMS**..................................................\...\...\...\...\...\...\...\...\...\...\...\..... **AFQC-700** 
+  **700 FORMS**..................................................\...\...\...\...\...\...\...\...\...\...\...\..... **AFQC-700** 
 
 > GENERAL.............................................................................
 > 700.1 RECORD
@@ -221,7 +217,7 @@ RESPONSIBILITIES**............................................
 > RESOLUTION...........................\......\..........................
 > 1000.4
 
-# **WAIVERS AFQC-20** 
+ **WAIVERS AFQC-20** 
 
 **SUMMARY:**
 
@@ -275,7 +271,7 @@ section 2.1.4 of ATA 103 and the carrier\'s procedures.**
 >
 > Relevant forms are referenced in section 700 of this manual.
 
-# ••• 
+ ••• 
 
 **WAIVERS AFQC-20**
 
@@ -500,7 +496,7 @@ responsibilities as follows:
                                                  Secondary:
   -----------------------------------------------------------------------
 
-## ••• 
+ ••• 
 
 November 2025 © 2024 FSM Group
 
@@ -511,9 +507,9 @@ November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-#### AIRLINE / CUSTOMER NOTIFICATON AFQC-40
+ AIRLINE / CUSTOMER NOTIFICATON AFQC-40
 
-##### 40.1 OBJECTIVE 
+ 40.1 OBJECTIVE 
 
 > To ensure proper notifications are made to Airline customers as
 > related to fuel quality control (contamination) issues and/or changes
@@ -538,7 +534,7 @@ November 2025 © 2024 FSM Group
 (c) Telephone Number (Telephone numbers for contacts, include email
     addresses if available)
 
-###### 40.3 NOTIFICATION REQUIREMENTS 
+ 40.3 NOTIFICATION REQUIREMENTS 
 
 > Airline customers shall be notified when they are affected by any of
 > the following issues:
@@ -555,7 +551,7 @@ possible), of the changes.**
 > fueling equipment/ systems and our procedures for use prior to
 > servicing the airline\'s aircraft.**
 
-##### NOTE 
+ NOTE 
 
 > **When new or replacement equipment is received or existing equipment
 > has undergone major modifications to the fueling system, all required
@@ -576,7 +572,7 @@ possible), of the changes.**
 
 (e) Whenever a variance or waiver is requested or terminated.
 
-###### NOTE 
+ NOTE 
 
 > **Internal notification procedures must be completed before contacting
 > airline customers. Notify FSM VP of Fuel Facilities and the VP of
@@ -587,7 +583,7 @@ November 2025 © 2024 FSM Group
 
 Printed Copies are for Reference Only
 
-#### AIRLINE / CUSTOMER NOTIFICATON AFQC-40
+ AIRLINE / CUSTOMER NOTIFICATON AFQC-40
 
 > **NOTE**
 >
@@ -596,7 +592,7 @@ Printed Copies are for Reference Only
 > shall be immediately investigated. Corrective measures shall be
 > initiated to ensure the removal of the contaminants.**
 
-##### 40.4 LOCATION OF CUSTOMER NOTIFICATION LIST 
+ 40.4 LOCATION OF CUSTOMER NOTIFICATION LIST 
 
 > Each location shall as a minimum, have copies of the Location Specific
 > Customer Notification List in the following locations:
@@ -607,17 +603,17 @@ Printed Copies are for Reference Only
 
 (c) Fuel Facility
 
-# ••• 
+ ••• 
 
 November 2025 © 2024 FSM Group
 
 Printed Copies are for Reference Only
 
-## **50.1 OBJECTIVE** 
+ **50.1 OBJECTIVE** 
 
 > To ensure equipment/tools are maintained within specifications.
 
-### 50.2 FREQUENCY 
+ 50.2 FREQUENCY 
 
 > The following tools shall be calibrated for accuracy per the table
 > below. Calibration shall be performed by a company that uses standards
@@ -670,7 +666,7 @@ Printed Copies are for Reference Only
 (f) Filter Differential Pressure Gauges at the fuel facility and on all
     into-plane fueling equipment.
 
-#### 50.3 PROCEDURE 
+ 50.3 PROCEDURE 
 
 > The aforementioned equipment/tooling shall be calibrated by the
 > following procedures.
@@ -762,18 +758,18 @@ d.  Gammon and Shultz filter differential pressure gauges must be
 > required tooling and testing equipment is calibrated at the required
 > frequency.
 
-## **NOTE** 
+ **NOTE** 
 
 > **Any calibration required tooling or test equipment that is out of
 > calibration should be tagged \"OUT OF SERVICE FOR CALIBRATION\" and
 > removed from the work area until it meets compliance with this
 > program.**
 
-## ••• 
+ ••• 
 
 
 
-### MISFUELING PREVENTION AFQC-60 
+ MISFUELING PREVENTION AFQC-60 
 
 > **60.1 PURPOSE**
 >
@@ -834,7 +830,7 @@ November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-### MISFUELING PREVENTION AFQC-60
+ MISFUELING PREVENTION AFQC-60
 
 > For turbine powered aircraft which do not accept the larger diameter
 > jet fuel nozzle spout a small diameter jet fuel nozzle spout shall be
@@ -879,7 +875,7 @@ November 2025 © 2024 FSM Group
     -   The use of a Fuel Confirmation Order Form is required for all
         refueling of dieselpowered aircraft types.
 
-### ••• 
+ ••• 
 
 November 2025 © 2024 FSM Group
 
@@ -992,7 +988,7 @@ B.  FSM Group shall comply with all obligations under the Americans with
 
 November 2025 © 2024 FSM Group
 
-#### 70.5.4 Testing procedures 
+ 70.5.4 Testing procedures 
 
 > Test administration shall be completed as follows:
 
@@ -1012,7 +1008,7 @@ November 2025 © 2024 FSM Group
 > unavailable, the location shall follow the instruction of the
 > Corporate Training Manager concerning color vision testing.
 
-## ••• 
+ ••• 
 
 > **100.1 DEFINITIONS**
 >
@@ -1391,7 +1387,7 @@ November 2025 © 2024 FSM Group
 >
 > **WSIM:** Water Separation Index Modified.
 
-### 100.2 PRODUCT IDENTIFICATION 
+ 100.2 PRODUCT IDENTIFICATION 
 
 > **100.2.1 Jet A:** A kerosene fuel having a -40^°^F (-40^°^ C) maximum
 > freezing point, a 100^°^F (38^°^C) minimum flash point and API gravity
@@ -1552,7 +1548,7 @@ November 2025 © 2024 FSM Group
 
 > **All piping base coats shall be either white or silver in color.**
 
-#### 100.4 Sample Terminology 
+ 100.4 Sample Terminology 
 
 > The following terms have been defined to clarify the composition of a
 > particular sample or the point at which a sample is taken.
@@ -1603,7 +1599,7 @@ b.  A pint sample may be drawn at regular intervals during a delivery to
 > **Discrete Sample: A sample consisting entirely of one specific type
 > of the preceding samples (excluding Composite).**
 
-### 100.5 CONTAMINANTS 
+ 100.5 CONTAMINANTS 
 
 > **100.5.1 General.**
 
@@ -1651,7 +1647,7 @@ b.  A pint sample may be drawn at regular intervals during a delivery to
     detrimental to the ability of filter/separators to perfom1 their
     functions.
 
-### • NOTE 
+ • NOTE 
 
 > **If a fuel supply is suspected of contamination, aircraft refueling
 > must be discontinued from that source. Notify all affected aircraft
@@ -1802,7 +1798,7 @@ c.  Rapid plugging or malfunctioning of filter/separators.
 
 d.  Water downstream of filter separator.
 
-#### NOTE 
+ NOTE 
 
 > **When surfactants are discovered, care must be exercised to replace
 > filter/separator elements and to clean storage tanks before the
@@ -1841,7 +1837,7 @@ d.  Water downstream of filter separator.
 > reserved for the laboratory. It is important to note that these test
 > results can often be misleading due to improper sampling procedures.**
 
-##### 100.6 STATIC ELECTRICITY 
+ 100.6 STATIC ELECTRICITY 
 
 > **100.6.1 General.** Static electricity is a potential threat to safe
 > fuel handling. Any relative motion between bodies - such as an
@@ -1942,13 +1938,13 @@ d.  Never put metal or conductive objects (such as gauge tapes, sample
     with aviation fuels. **Wait at least a couple of minutes after the
     flow stops** before using any of these devices.
 
-### •••• 
+ •••• 
 
 
 
 > **AIRPORT STORAGE AFQC-200**
 
-#### 200.1 FUEL STORAGE FACILITY REQUIREMENTS (General) 
+ 200.1 FUEL STORAGE FACILITY REQUIREMENTS (General) 
 
 > Fuel storage facilities/systems are designed to assure product
 > segregation in order to prevent the accidental mixing of dissimilar
@@ -1988,14 +1984,14 @@ d.  Never put metal or conductive objects (such as gauge tapes, sample
 > business must meet the FSM AFQCM standards but shall not be modified
 > without the consent of the OEM and leasing agent.
 
-#### CAUTION 
+ CAUTION 
 
 > **Zinc galvanized materials shall not be used in jet fuel service. No
 > copper alloys, cadmium plating or plastic materials are permitted for
 > main fuel piping. The use of copper or copper alloy materials for
 > other components must be minimized.**
 
-#### CAUTION 
+ CAUTION 
 
 > **Where more than one type or grade of fuel is stored in a fuel
 > storage system, completely segregated systems are required. The use of
@@ -2004,7 +2000,7 @@ d.  Never put metal or conductive objects (such as gauge tapes, sample
 > compatible connections between systems for both receiving and
 > dispensing to prevent the accidental mixing of products.**
 
-##### 200.1 STORAGE TANKS 
+ 200.1 STORAGE TANKS 
 
 > New storage tank systems should be above ground type, either vertical
 > or horizontal as dictated by the volume throughput and local airport
@@ -2053,7 +2049,7 @@ d.  Never put metal or conductive objects (such as gauge tapes, sample
 (h) A tank / sump drain with adjacent placard indicating the volume of
     product in the tank drain/sump piping
 
-###### 200.1.1 Above Ground Vertical Tanks 
+ 200.1.1 Above Ground Vertical Tanks 
 
 > Above ground vertical tanks shall also include the following
 > equipment, in addition to 200. 1.1, unless otherwise indicated.
@@ -2076,7 +2072,7 @@ d.  Never put metal or conductive objects (such as gauge tapes, sample
 (e) Tank roof access and work platforms must be guarded by engineered
     handrails and toe boards, or equivalent means of safe access.
 
-###### 200.1.2 Above Ground Horizontal Tanks 
+ 200.1.2 Above Ground Horizontal Tanks 
 
 > Above ground horizontal tanks shall also include the following
 > equipment below in addition to 200. 1.1, unless otherwise indicated.
@@ -2094,7 +2090,7 @@ d.  Never put metal or conductive objects (such as gauge tapes, sample
 > handrails and toe boards for manual gauging and for maintenance
 > functions, or equivalent means of safe access.
 
-###### 200.1.3 Underground Tanks 
+ 200.1.3 Underground Tanks 
 
 > Underground tanks shall also include the following equipment below in
 > addition to 200.1.1, unless otherwise indicated. **Non-metallic tanks
@@ -2122,7 +2118,7 @@ a.  Adequate secondary containment
 
 b.  High level controls
 
-###### 200.1.5 Oil / Water Separtors 
+ 200.1.5 Oil / Water Separtors 
 
 > Oil/Water Separators must have:
 
@@ -2135,7 +2131,7 @@ b.  A written description that includes: 1.Design capacity
 >
 > 4.Preventive maintenance and cleaning schedule
 
-##### 200.2 FILTERS 
+ 200.2 FILTERS 
 
 > Filtration is required for receiving into and dispensing aviation
 > fuels out of fuel storage facilities. Filter/separators are required
@@ -2155,7 +2151,7 @@ b.  A written description that includes: 1.Design capacity
 > edition, may be used. A differential pressure limiting device is
 > required for this application.
 
-###### NOTE 
+ NOTE 
 
 > **Additional filtration, such as micronic filters, water coalescers
 > (haypacks) or clay treaters, may be required due to local conditions.
@@ -2168,7 +2164,7 @@ b.  A written description that includes: 1.Design capacity
 > **If micronic filters are used, they must meet the qualification
 > requirements of EI 1590.**
 
-####### 200.2.1 Filter Requirements 
+ 200.2.1 Filter Requirements 
 
 > Filter/separators shall meet the requirements of El 1581 latest
 > edition. Existing vessels and element conversions shall meet, by test
@@ -2186,7 +2182,7 @@ b.  A written description that includes: 1.Design capacity
 > changed annually or when Differential Pressure reaches 15 PSI for
 > filter/separator and monitor elements.
 
-###### CAUTION 
+ CAUTION 
 
 > **All facility filters should be operated at a flow rate of at least
 > 50% of vessel rated flow, if this is not occurring consult the filter
@@ -2272,7 +2268,7 @@ h.  If the vessel has been converted to utilize elements other than what
 > **200.2.2** Gaskets shall be of Viton A, Buna N, or an equivalent
 > material. Cork or rubber- impregnated cork gaskets shall not be used.
 
-####### 200.3 EMERGENCY FUEL SHUTOFF SYSTEM 
+ 200.3 EMERGENCY FUEL SHUTOFF SYSTEM 
 
 > The facility shall have an Emergency Fuel Shutoff System that when
 > actuated, will stop the flow of fuel in the system. Fuel flow
@@ -2285,7 +2281,7 @@ h.  If the vessel has been converted to utilize elements other than what
 > red on white or white on red. The area around these controls shall be
 > kept free of obstructions.
 
-######## 200.4 MISCELLANEOUS 
+ 200.4 MISCELLANEOUS 
 
 > **200.4.1** Fire extinguishers with annual and monthly inspection tags
 > shall be positioned in accordance with local requirements.
@@ -2359,7 +2355,7 @@ b.  Manual sump drains - with valves having handles spring loaded to the
 > **200.4.9** Product reclamation storage tanks, where installed, shall
 > include the following equipment:
 
-#### NOTE 
+ NOTE 
 
 > **These design requirements do not apply to sump separators/ collector
 > units. Low point sump must be fitted with a manual drain with spring
@@ -2444,7 +2440,7 @@ e.  Equipment Maintenance:
 > system have been approved by the local affected carriers prior to the
 > operation of the system.
 
-##### 200.5 REFUELING TRUCK LOADING STATION 
+ 200.5 REFUELING TRUCK LOADING STATION 
 
 > All truck loading stations must be equipped with:
 
@@ -2503,7 +2499,7 @@ f.  Dust covers or other protective devises must be used to prevent
 
 g.  Product meters (calibrated) for dispensing product into refuelers.
 
-##### NOTE 
+ NOTE 
 
 > **It is permissible for maintenance personnel to break a meter seal
 > for the purpose of making adjustments to any component other than the
@@ -2511,7 +2507,7 @@ g.  Product meters (calibrated) for dispensing product into refuelers.
 > completion of the task. Any in-service meters lacking the required
 > seal will require re-calibration.**
 
-###### 200.6 FUEL FACILITY CHECKS AND INSPECTIONS 
+ 200.6 FUEL FACILITY CHECKS AND INSPECTIONS 
 
 > **200.6.1 General.** The following tests and inspections shall be
 > performed on all fuel storage facilities servicing aircraft and at the
@@ -2553,13 +2549,13 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
 > the appropriate paper or digital form. The daily checks required by
 > ATA 103 are listed in the following table.
 
-###### NOTE 
+ NOTE 
 
 > **Alert Pressure: If Filter Separator or Monitor element observed
 > differential pressure reaches 12 PSI. Maintenance personnel should be
 > notified as to prepare for a filter element replacement.**
 
-#### ATA 103 Fuel Storage Daily Checks 
+ ATA 103 Fuel Storage Daily Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                              **Reference**
@@ -2597,7 +2593,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
   Bulk Air Eliminators                             2.5.3.10; 3.1
   -----------------------------------------------------------------------
 
-##### 200.8 FUEL FACILITY WEEKLY QUALITY CONTROL CHECKS 
+ 200.8 FUEL FACILITY WEEKLY QUALITY CONTROL CHECKS 
 
 > Perform weekly fuel facility checks once every calendar week and
 > within one week +/- one day of the previous weekly check (ATA 103
@@ -2607,7 +2603,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
 > checks on the appropriate paper or digital form. The weekly checks
 > required by ATA 103 are listed in the table below.
 
-#### ATA 103 Fuel Storage Weekly Checks 
+ ATA 103 Fuel Storage Weekly Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                              **Reference**
@@ -2617,7 +2613,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
   Corrected Filter Differential Pressure           2.5.4.2
   -----------------------------------------------------------------------
 
-##### 200.9 FUEL FACILITY MONTHLY QUALITY CONTROL CHECKS 
+ 200.9 FUEL FACILITY MONTHLY QUALITY CONTROL CHECKS 
 
 > Perform monthly fuel facility checks once every calendar month and
 > prior to the end of the third week of the month. The monthly check
@@ -2628,7 +2624,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
 > the appropriate paper or digital form. The monthly checks required by
 > ATA 103 are listed in the following table.
 
-##### ATA 103 Fuel Storage Monthly Check 
+ ATA 103 Fuel Storage Monthly Check 
 
   -----------------------------------------------------------------------
   **Required Checks**                              **Reference**
@@ -2648,7 +2644,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
   FSII Concentration (if applicable)               2.5.5.7
   -----------------------------------------------------------------------
 
-###### 200.10 FUEL FACILITY QUARTERLY QUALITY CONTROL CHECKS 
+ 200.10 FUEL FACILITY QUARTERLY QUALITY CONTROL CHECKS 
 
 > Perform quarterly fuel facility checks once every three calendar
 > months and within three months +/- 10 days of the previous check. For
@@ -2659,7 +2655,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
 > quarterly checks per calendar year. The quarterly checks required by
 > ATA 103 are listed in the table below.
 
-###### ATA 103 Fuel Storage Quarterly Checks 
+ ATA 103 Fuel Storage Quarterly Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                              **Reference**
@@ -2684,7 +2680,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
 > digital form. The semi-annual checks required by ATA 103 are listed in
 > the table below.
 
-###### ATA 103 Fuel Storage Semi-Annual Checks 
+ ATA 103 Fuel Storage Semi-Annual Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                              **Reference**
@@ -2694,7 +2690,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
   Static Stock Quality Check                       2.5.7.2
   -----------------------------------------------------------------------
 
-####### 200.12 FUEL FACILITY ANNUAL QUALITY CONTROL CHECKS 
+ 200.12 FUEL FACILITY ANNUAL QUALITY CONTROL CHECKS 
 
 > Perform annual fuel facility checks once every twelve months and
 > within twelve months +/- ten days of the previous check. For instance,
@@ -2704,7 +2700,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
 > form. The annual checks required by ATA 103 are listed in the
 > following table.
 
-####### ATA 103 Fuel Storage Annual Checks 
+ ATA 103 Fuel Storage Annual Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                              **Reference**
@@ -2730,7 +2726,7 @@ f.  At all times, proper PPE (Personal Protective Equipment) must be
   Filter Vessel Pressure Relief Devices            2.5.8.10
   -----------------------------------------------------------------------
 
-######## 200.13 HYDRANT SYSTEM QUALITY CONTROL CHECKS 
+ 200.13 HYDRANT SYSTEM QUALITY CONTROL CHECKS 
 
 > The following checks shall be performed on all hydrant-fueling systems
 > servicing aircraft and at the frequencies specified. Additional tasks
@@ -2755,7 +2751,7 @@ c.  Only fully trained and qualified personnel shall perform any and all
 d.  At all times, proper PPE (Personal Protective Equipment) must be
     worn.
 
-######## NOTE 
+ NOTE 
 
 > Each location is to have blue prints and/or diagrams on hand and
 > accessible for all personnel that work on the hydrant system to review
@@ -2777,7 +2773,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
 > the appropriate paper or digital form. The daily checks required by
 > ATA 103 are listed in the table below.
 
-#### ATA 103 Fueling Hydrant Daily Checks 
+ ATA 103 Fueling Hydrant Daily Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                              **Reference**
@@ -2791,7 +2787,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
 >
 > There are no weekly hydrant checks required by ATA 103.
 
-##### 200.16 HYDRANT SYSTEM MONTHLY QUALITY CONTROL CHECKS 
+ 200.16 HYDRANT SYSTEM MONTHLY QUALITY CONTROL CHECKS 
 
 > Perform monthly fuel facility checks once every calendar month and
 > prior to the end of the third week of the month. The monthly check
@@ -2802,7 +2798,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
 > appropriate paper or digital form. The monthly checks required by ATA
 > 103 are listed in the table below.
 
-##### ATA 103 Fueling Hydrant Monthly Checks 
+ ATA 103 Fueling Hydrant Monthly Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                              **Reference**
@@ -2816,7 +2812,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
   EFSO                                             2.7.4.4
   -----------------------------------------------------------------------
 
-###### 200.17 HYDRANT SYSTEM QUARTERLY QUALITY CONTROL CHECKS 
+ 200.17 HYDRANT SYSTEM QUARTERLY QUALITY CONTROL CHECKS 
 
 > Perform quarterly fuel facility checks once every three calendar
 > months and within three months +/- 10 days of the previous check. For
@@ -2827,7 +2823,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
 > quarterly checks per calendar year. The quarterly checks required by
 > ATA 103 are listed in the table below.
 
-##### ATA 103 Fueling Hydrant Quarterly Checks 
+ ATA 103 Fueling Hydrant Quarterly Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                            **Reference**
@@ -2836,7 +2832,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
 
   -----------------------------------------------------------------------
 
-###### 200.18 HYDRANT SYSTEM SEMI-ANNUAL QUALITY CONTROL CHECKS 
+ 200.18 HYDRANT SYSTEM SEMI-ANNUAL QUALITY CONTROL CHECKS 
 
 > Perform semi-annual fuel facility checks once every six months and
 > within six months +/- ten days of the previous check. For instance, a
@@ -2847,7 +2843,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
 > the table below. Additional checks may be listed, Reference is "FSM",
 > even though they are not required by ATA 103.
 
-###### ATA 103 Fueling Hydrant Semi-Annual Checks 
+ ATA 103 Fueling Hydrant Semi-Annual Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                            **Reference**
@@ -2857,7 +2853,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
   Surge Absorbers                                2.7.6.2
   -----------------------------------------------------------------------
 
-####### 200.19 HYDRANT SYSTEM ANNUAL QUALITY CONTROL CHECKS 
+ 200.19 HYDRANT SYSTEM ANNUAL QUALITY CONTROL CHECKS 
 
 > Perform annual fuel facility checks once every twelve months and
 > within twelve months +/- ten days of the previous check. For instance,
@@ -2868,7 +2864,7 @@ d.  At all times, proper PPE (Personal Protective Equipment) must be
 > checks may be listed, Reference is "FSM", even though they are not
 > required by ATA 103.
 
-###### ATA 103 Fueling Hydrant Annual Checks 
+ ATA 103 Fueling Hydrant Annual Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                            **Reference**
@@ -2919,7 +2915,7 @@ on alternate methods and precautions for dispensing fuel.
 > **300.1.4** At all times, proper PPE (Personal Protective Equipment)
 > must be worn.
 
-####### 300.2 JET FUEL RECEIVING SPECIFICATION AND PURITY STANDARDS 
+ 300.2 JET FUEL RECEIVING SPECIFICATION AND PURITY STANDARDS 
 
 a.  Jet fuel shall conform to ASTM D-1655 latest revision, or military
     contract requirements.
@@ -2938,7 +2934,7 @@ c.  The color of jet fuel generally ranges from water white to light
 > **300.2.2** The following jet fuel purity and specification parameters
 > should apply **UPSTREAM** of airport receiving filtration.
 
-####### NOTE 
+ NOTE 
 
 > **It is important that the facility operator assigned the task and
 > responsibility to receive jet fuel into storage tanks sample inbound
@@ -3036,7 +3032,7 @@ b.  The following action is required if RED DYE is detected.
     1.  The Appearance Test (White Bucket) shall be used to inspect for
         red dye contamination. The referee Appearance Test (White Bucket
         shall be the white porcelain bucket obtained from Gammon
-        Technical Products, #GTP - 1746B or GTP - 1746C. This test
+        Technical Products, GTP - 1746B or GTP - 1746C. This test
         requires collecting approximately a 2-gallon sample with a fuel
         depth of 8 inches +/- 1.0 inch. The inspector (with normal
         vision or wearing corrective non- tinted lenses) performs a
@@ -3105,7 +3101,7 @@ d.  Other colors may indicate that other products may have contaminated
 +=====================================+====================+===========+
 +-------------------------------------+--------------------+-----------+
 
-######## 300.4 FUEL RECEIPT BY TRANSPORT TRUCK 
+ 300.4 FUEL RECEIPT BY TRANSPORT TRUCK 
 
 > **NOTE**
 >
@@ -3243,7 +3239,7 @@ g.  Check condition of off load hose(s) and fittings for deficiencies,
     pending failures and cleanliness prior to connection to transport
     truck and fuel facility receiving connections.
 
-####### NOTE 
+ NOTE 
 
 ![](./image7.png){width="2.3066666666666666in"
 height="0.17333333333333334in"}**max fill level) of the tank shall be
@@ -3268,7 +3264,7 @@ c.  FSII % of Concentration Test (This test is performed only if the
 > between **.1** % **and .15%** measured by an approved refractometer.
 > (Utilizing the B-2 Test Kit or Aviation Labs FSII Test Kit).
 
-####### NOTE 
+ NOTE 
 
 > **Use extreme care and vigilance when performing the Visual Appearance
 > test. Slight traces of water, solids or color may indicate the
@@ -3349,7 +3345,7 @@ e.  Perform the following checks and record results after allowing for
 > stirred up during tank receiving to settle to the tank sump for
 > removal.)
 
-######## CAUTION 
+ CAUTION 
 
 > **All manual valves that block receiving or transfer lines shall be
 > closed after a receipt or transfer. Only valves that are needed to
@@ -3359,7 +3355,7 @@ November 2025 68 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-######### NOTE 
+ NOTE 
 
 > **It is recognized that some facilities receive fuel by simultaneous
 > off-loading transport trucks, making sumping of inbound filter vessels
@@ -3423,14 +3419,14 @@ h.  Existent Gum
 > Shipping documents shall also include all delivery information, i.e.
 > destination; batch number; fuel grade or type; quantity to be shipped.
 
-####### NOTE 
+ NOTE 
 
 > **Fuel receipts should not be rejected based upon incomplete
 > certification documentation; contact the supplier to obtain a faxed
 > copy. If the certification documentation cannot be delivered prior to
 > delivery, affected airlines must be notified.**
 
-######## NOTE 
+ NOTE 
 
 > **The maximum working capacity (max fill level) of the tank shall be
 > 88% of rated capacity or less.**
@@ -3457,7 +3453,7 @@ c.  Coordinate communications between pipeline shipping and facility
 
 > **300.6.4** Begin Fuel Delivery (Receipt).
 
-######### CAUTION 
+ CAUTION 
 
 > **Do not leave the fuel facility unattended anytime during a product
 > receipt or transfer. A fuel facility attendant/operator must be
@@ -3475,7 +3471,7 @@ November 2025 70 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-#### AFQC -300
+ AFQC -300
 
 a.  At the beginning, midpoint and near end of a delivery the facility
     operator shall conduct the following tests and record the results.
@@ -3501,7 +3497,7 @@ b.  This series of tests is to be repeated for each shipper tank or
 > contamination or a specification problem if there is a change of more
 > than 1 ^°^ API (3 Kg/m\') from source as shown on shipping document.
 
-##### CAUTION 
+ CAUTION 
 
 > **Use extreme care and vigilance when performing the Visual Appearance
 > test. Slight traces of water, solids or color may indicate the
@@ -3532,13 +3528,13 @@ c.  Inspect fuel system for leaks.
 > position. Allow a minimum of 30 minutes for settling, gauge tank and
 > record volumes
 
-##### CAUTION 
+ CAUTION 
 
 > **All manual valves that block receiving or transfer lines shall be
 > closed after a receipt or transfer. Only valves that are needed to
 > allow a normal disbursement from working storage shall be left open.**
 
-###### NOTE 
+ NOTE 
 
 > **The receiving tank shall be allowed to settle as long as possible
 > before dispensing fuel from it. To help improve fuel purity, it is
@@ -3564,7 +3560,7 @@ Manager abnormal amounts of contamination condition.**
 > opened to receive pipeline before the first tank is shut off. If
 > possible, tank chan2es should be avoided.**
 
-####### CAUTION 
+ CAUTION 
 
 > **If while receiving there is doubt about the quality of the product
 > being received and it is felt that contamination will occur if pumping
@@ -3655,14 +3651,14 @@ c.  Coordinate communications between pipeline shipping and facility
 
 > **300.6.4** Begin Fuel Delivery (Receipt).
 
-######## CAUTION 
+ CAUTION 
 
 > **Do not leave the fuel facility unattended anytime during a product
 > receipt or transfer. A fuel facility attendant/operator must be
 > present during all receipts. Personnel must be able to communicate
 > with the pipeline company durin2 fuel receipt.**
 
-######### NOTE 
+ NOTE 
 
 > **At flow start-up take a line sample from the previous shipment left
 > in the pipeline and perform a White capacity and flow rate, how much
@@ -3694,9 +3690,9 @@ November 2025 74 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-######## CAUTION 
+ CAUTION 
 
-######### Fuel is unacceptable and must be rejected if API Gravity/Density, corrected to 60^°^ F (15^°^ C), is not between 37^°^ and 51 ^°^ API (775-840 Kg/m^3^~)~ and/or Flash Point is less than 100^°^ F 
+ Fuel is unacceptable and must be rejected if API Gravity/Density, corrected to 60^°^ F (15^°^ C), is not between 37^°^ and 51 ^°^ API (775-840 Kg/m^3^~)~ and/or Flash Point is less than 100^°^ F 
 
 > **(38^°^ C). Discontinue fuel transfer or receipt and initiate an
 > immediate investigation to determine if there is fuel contamination or
@@ -3736,14 +3732,14 @@ c.  Inspect fuel system for leaks.
 **300.6.9** Allowing a minimum of 30 minutes for settling, gauge tank
 and record volumes.
 
-######### CAUTION 
+ CAUTION 
 
 > **The receiving tank shall be allowed to settle as long as possible
 > before dispensing fuel from it. A settling time of one hour per
 > vertical foot of product depth is desirable to help improve fuel
 > purity.**
 
-#### RECEIPT OF FUEL 
+ RECEIPT OF FUEL 
 
 > **300.6.10** After observation of the settling time per applicable
 > standard, perform the following checks:
@@ -3773,7 +3769,7 @@ b.  Sump all receiving filters using the white bucket method.
 > **Immediately report to the Fuel Facility Manager or General Manager,
 > abnormal amounts of contamination condition.**
 
-##### CAUTION 
+ CAUTION 
 
 > **If while receiving there is doubt about the quality of the product
 > being received and it is felt that contamination will occur if pumping
@@ -3794,9 +3790,9 @@ result.**
 >
 > Utilize applicable FSM forms and/or approved local forms.
 
-#### RECEIPT OF FUEL ^AFQC^ -300 
+ RECEIPT OF FUEL ^AFQC^ -300 
 
-##### 300.8 MARINE VESSEL DELIVERIES 
+ 300.8 MARINE VESSEL DELIVERIES 
 
 > Airport facility operators should follow the AFQC manual
 >
@@ -3805,9 +3801,9 @@ result.**
 >
 > Utilize applicable FSM forms and/or approved local forms.
 
-####  ••• 
+  ••• 
 
-##### AIRCRAFT FUELING EQUIPMENT 
+ AIRCRAFT FUELING EQUIPMENT 
 
 > **400.1 AIRCRAFT FUELING EQUIPMENT REQUIREMENTS**
 
@@ -3830,7 +3826,7 @@ C.  Third-party owned equipment (regardless of location) may be operated
     > Company business must meet the AFQCM standards but shall not be
     > modified without the consent of the OEM and leasing agent.
 
-###### *D. NOTIFICATION OF NEW OR MODIFIED EQUIPMENT* 
+ *D. NOTIFICATION OF NEW OR MODIFIED EQUIPMENT* 
 
 > Affected airlines are to be notified whenever new, additional,
 > replacement or modified storage, distribution facilities or aircraft
@@ -3866,7 +3862,7 @@ F.  Each location shall establish a Location Specific Customer
 G.  All electrical equipment, including lights, light lenses and wiring,
     must be maintained in
 
-##### AIRCRAFT FUELING EQUIPMENT 
+ AIRCRAFT FUELING EQUIPMENT 
 
 > good safe condition at all times. Electrical equipment and wiring must
 > be reasonably protected from heat, abrasion, or other impact, which
@@ -3894,7 +3890,7 @@ J.  Windows must be clean and free of cracks and crazing.
 > for main fuel piping. The use of copper or copper alloy materials for
 > other components shall be minimized.**
 
-######  400.1.1 FILTER/SEPARATOR OR FULL-FLOW MONITOR 
+  400.1.1 FILTER/SEPARATOR OR FULL-FLOW MONITOR 
 
 > All aircraft fueling equipment shall have a Filter/Separator or a
 > Full-Flow Fuel Monitor. All filter elements (coalescers, separators,
@@ -3930,7 +3926,7 @@ B.  Full Flow Fuel Monitors must meet the requirements of EI 1583 7^th^
 > devise that will prevent excessive differential pressure from damaging
 > elements in the event of complete blockage.
 
-####### CAUTION 
+ CAUTION 
 
 > **All equipment filters should be operated at a flow rate of at least
 > 50% of vessel rated flow, if this is not occurring consult the filter
@@ -3938,7 +3934,7 @@ B.  Full Flow Fuel Monitors must meet the requirements of EI 1583 7^th^
 > rated flow of the vessel to comply with this requirement. The rated
 > flow of any vessel cannot be exceeded.**
 
-######## CAUTION 
+ CAUTION 
 
 > **Full Flow Monitors shall not be used with fuels containing Fuel
 > System Icing Inhibitors. The water removal performance of Full Flow
@@ -4005,7 +4001,7 @@ B.  Full Flow Fuel Monitors must meet the requirements of EI 1583 7^th^
 8)  All vessel interiors of mild steel shall be protected with an
     approved epoxy coating.
 
-####### 400.1.2 PRESSURE CONTROLS 
+ 400.1.2 PRESSURE CONTROLS 
 
 > All aircraft fueling equipment shall have separate and independent
 > primary and secondary fuel pressure control devices that limit the
@@ -4033,13 +4029,13 @@ c.  Fuel pressure control systems may utilize the following 1) Pressure
     5.  Pressure switches, which will cause rapid shutdown of fuel flow
         > in the event of high fueling pressure.
 
-###### CAUTION 
+ CAUTION 
 
 **FUELING PRESSURE CONTROL SYSTEMS SHALL NEVER ALLOW THE ACTUAL FUEL
 PRESSURE, MEASURED AT THE FUEL NOZZLE, TO EXCEED THE PRESSURE INDICATED
 BY THE OPERATOR\'S GAUGE.**
 
-####### 400.1.3 DEADMAN CONTROL SYSTEM 
+ 400.1.3 DEADMAN CONTROL SYSTEM 
 
 > All aircraft fueling equipment shall have a hand-held Deadman control
 > system, which must completely stop fuel flow within 5% of the fuel
@@ -4053,7 +4049,7 @@ BY THE OPERATOR\'S GAUGE.**
 > rate at the time of deadman control release is 300 gpm, total overrun
 > must not exceed 15 gallons.**
 
-######## 400.1.4 EMERGENCY FUEL SHUTOFF SYSTEM 
+ 400.1.4 EMERGENCY FUEL SHUTOFF SYSTEM 
 
 a.  Hydrant trucks, hydrant carts and fueling cabinets shall be equipped
     with an emergency fuel shutoff system in addition to the Deadman
@@ -4123,7 +4119,7 @@ g.  Fire extinguishers shall be marked with identity numbers. A record
 h.  Current inspection (monthly & annual), testing and recharging record
     tags must be attached.
 
-######### 400.1.6 SAFETY INTERLOCK SYSTEM 
+ 400.1.6 SAFETY INTERLOCK SYSTEM 
 
 a.  All aircraft fueling vehicles, **except non-motorized (towable)
     hydrant carts**, shall have a safety interlock system that will
@@ -4179,7 +4175,7 @@ purchased by the end user:
 
 **PRIOR TO THE PERIODIC PRESSURE TESTING OF AN AIRCRAFT FUELING**
 
-####### HOSE, THE MAXIMUM ALLOWABLE PRESSURE RATING OF THE ATTACHED 
+ HOSE, THE MAXIMUM ALLOWABLE PRESSURE RATING OF THE ATTACHED 
 
 > **VALVES, METERS, OR SWIVELS SHOULD BE CHECKED TO PREVENT POSSIBLE
 > INJURY TO THE OPERATOR OR DAMAGE TO THE EQUIPMENT. IT MAY BE NECESSARY
@@ -4236,12 +4232,12 @@ c.  Hose Hydrostatic Pressure Test Certificates shall be maintained on
 
     n.  Date of certification
 
-########  400.1.8 MANUAL ISOLATION VALVES 
+  400.1.8 MANUAL ISOLATION VALVES 
 
 > Equipment with multiple aircraft delivery hoses shall have a manual
 > isolation valve installed upstream of each delivery hose.
 
-######## 400.1.9 DUST COVERS 
+ 400.1.9 DUST COVERS 
 
 > Dust covers or other protective devices shall be used to prevent
 > debris from accumulating on mating surfaces of hydrant couplers and
@@ -4249,7 +4245,7 @@ c.  Hose Hydrostatic Pressure Test Certificates shall be maintained on
 >
 > 8
 
-######### 400.1.10 NOZZLE *I* NOZZLE STRAINERS 
+ 400.1.10 NOZZLE *I* NOZZLE STRAINERS 
 
 a.  Aircraft fueling nozzles shall be equipped with 100 mesh screens.
 
@@ -4305,7 +4301,7 @@ d.  Gauge indicator dials must be marked in 2-pound increments or less.
 e.  Digital pressure displays shall have a minimum character height of ¾
     inch.
 
-######## 400.1.12 FUEL QUANTITY MEASUREMENT METER 
+ 400.1.12 FUEL QUANTITY MEASUREMENT METER 
 
 a.  Meters shall be capable of maintaining accuracy of 1/10 of one
     percent (0.1 %) and repeatability of 1/20 of one percent (0.05%) at
@@ -4334,7 +4330,7 @@ a.  All fueling equipment shall be equipped with an electrostatic
 b.  Electrostatic grounding/bonding system shall have 25 ohms or less
     total resistance.
 
-######### 400.1.14 SIGNS, PLACARDS AND LABELS 
+ 400.1.14 SIGNS, PLACARDS AND LABELS 
 
 > The following signs, placards or labels shall be placed on the
 > equipment as indicated:
@@ -4404,7 +4400,7 @@ q.  Tank truck high-level pre-check devices and method of operation must
 > **Your local governing authorities may require additional signs and
 > placards.**
 
-######### 400.1.15 ADDITIONAL REQUIREMENTS FOR TANK TRUCKS 
+ 400.1.15 ADDITIONAL REQUIREMENTS FOR TANK TRUCKS 
 
 a.  Cargo tanks shall be constructed of stainless steel, aluminum or
     internally light color epoxy coated carbon steel.
@@ -4443,7 +4439,7 @@ f.  Re-circulation connections are recommended. If equipped,
 g.  The refueler must have a means of ensuring that the internal valve
     is closed except when bottom loading or fueling.
 
-######## 400.1.16 MISCELLANEOUS ITEMS 
+ 400.1.16 MISCELLANEOUS ITEMS 
 
 > All mobile fueling tank trucks and hydrant trucks and carts shall be
 > equipped with:
@@ -4479,7 +4475,7 @@ h.  Lift deck assemblies shall be equipped with electrical stop sensor
 > 1\. Lift deck doors will be self-closing. Chains used as fall
 > protection devices must have spring-loaded clips.
 
-######## 400.2 FUELING EQUIPMENT CHECKS AND INSPECTIONS 
+ 400.2 FUELING EQUIPMENT CHECKS AND INSPECTIONS 
 
 > The following tests and inspections shall be performed on all fueling
 > equipment servicing aircraft and at the frequencies specified.
@@ -4540,7 +4536,7 @@ f.  Equipment shall be removed from service immediately for certain
 > Maintenance shall have supporting documentation for all reported
 > discrepancy repairs
 
-######### 400.3 FUELING EQUIPMENT DAILY QUALITY CONTROL CHECKS 
+ 400.3 FUELING EQUIPMENT DAILY QUALITY CONTROL CHECKS 
 
 > Perform daily fueling equipment checks at the beginning of each work
 > day including weekends and holidays. Record the results of all checks
@@ -4558,7 +4554,7 @@ f.  Equipment shall be removed from service immediately for certain
 > ***NOTE: Immediately report any observed deficiencies to the
 > responsible party.***
 
-###### ATA 103 Fueling Vehicle Daily checks 
+ ATA 103 Fueling Vehicle Daily checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                            **Reference**
@@ -4608,7 +4604,7 @@ c)  Wheel chocks must be used to prevent forward or aft movement of unit
 > \*\*\* Defective interlock systems shall be repaired immediately.
 > \*\*\*
 
-####### 400.4 FUELING EQUIPMENT WEEKLY CHECKS 
+ 400.4 FUELING EQUIPMENT WEEKLY CHECKS 
 
 > Perform weekly fueling equipment checks once every calendar week and
 > within one week +/- one day of the previous weekly check. For
@@ -4627,7 +4623,7 @@ c)  Wheel chocks must be used to prevent forward or aft movement of unit
   Corrected Filter Differential Pressure         2.9.4.2
   -----------------------------------------------------------------------
 
-####### 400.5 FUELING EQUIPMENT MONTHLY CHECKS 
+ 400.5 FUELING EQUIPMENT MONTHLY CHECKS 
 
 Perform monthly fueling equipment checks once every calendar month and
 prior to the end of the third week of the month. The monthly check must
@@ -4673,7 +4669,7 @@ they are not required by ATA 103.
   Dirt Defense & Electronic Water Sensor System    2.9.5.13
   -----------------------------------------------------------------------
 
-####### 400.6 FUELING EQUIPMENT QUARTERLY CHECKS 
+ 400.6 FUELING EQUIPMENT QUARTERLY CHECKS 
 
 > Perform quarterly fueling equipment checks once every three calendar
 > months and within three months +/- 10 days of the previous check. For
@@ -4685,7 +4681,7 @@ they are not required by ATA 103.
 > ATA 103 are listed below. Additional checks may be listed, Reference
 > is "FSM", even though they are not required by ATA 103.
 
-##### ATA 103 Fueling Vehicle Quarterly Checks 
+ ATA 103 Fueling Vehicle Quarterly Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                            **Reference**
@@ -4705,7 +4701,7 @@ they are not required by ATA 103.
   Differential Pressure Limiting Devices         2.9.6.7
   -----------------------------------------------------------------------
 
-###### 400.7 FUELING EQUIPMENT SEMI-ANNUAL CHECKS 
+ 400.7 FUELING EQUIPMENT SEMI-ANNUAL CHECKS 
 
 > Perform semi-annual fueling equipment checks once every six months and
 > within six months +/- ten days of the previous check. For instance, a
@@ -4715,7 +4711,7 @@ they are not required by ATA 103.
 > digital form. The semi-annual checks required by ATA 103 are listed in
 > the table below.
 
-###### ATA 103 Fueling Vehicle Semi-Annual Checks 
+ ATA 103 Fueling Vehicle Semi-Annual Checks 
 
 +--------------------------------------------------+-------------------+
 | > **Required Checks**                            | **Reference**     |
@@ -4733,7 +4729,7 @@ they are not required by ATA 103.
 > results of all checks on the appropriate paper or digital form. The
 > annual checks required by ATA 103 are listed in the following table.
 
-####### ATA 103 Fueling Vehicle Annual Checks 
+ ATA 103 Fueling Vehicle Annual Checks 
 
   -----------------------------------------------------------------------
   **Required Checks**                            **Reference**
@@ -4797,7 +4793,7 @@ F.  Insert fuel ticket in meter register ticket printer or in the
 
 G.  Energize hand held deadman assembly to initiate flow.
 
-######## WARNING 
+ WARNING 
 
 > **It is not permissible at any time to block the deadman in the open
 > or activated position.**
@@ -4846,7 +4842,7 @@ R.  Pick up wheel chocks and stow.
 
 S.  Perform walk around inspection.
 
-#####  ••• 
+  ••• 
 
 > **500.1 DEFUELING PROCEDURES (General)**
 >
@@ -4866,14 +4862,14 @@ S.  Perform walk around inspection.
 > **Fuel trucks utilizing monitors for Jet fuel filtration shall not be
 > used for defueling aircraft.**
 
-###### NOTE 
+ NOTE 
 
 > **Defueling aircraft directly into joint use fueling systems is not
 > authorized unless all system users have unanimously approved a written
 > procedure. The approval must come from the Quality Assurance
 > Departments of each user and must be in writing.**
 
-####### CAUTION 
+ CAUTION 
 
 > **Receive fuel into an empty vehicle whenever possible, or other
 > vehicle equipped for this purpose. If the defuel truck is not empty,
@@ -4886,7 +4882,7 @@ S.  Perform walk around inspection.
 
 > **Defueled product shall not be returned to airport storage.**
 
-######## 500.2 DE-FUELING PROCEDURES FOR LOAD ADJUSTMENT/MAINTENANCE 
+ 500.2 DE-FUELING PROCEDURES FOR LOAD ADJUSTMENT/MAINTENANCE 
 
 > **500.2.1 Procedures:** The following procedures shall be complied
 > with when defueling an aircraft for load adjustment/maintenance:
@@ -4943,7 +4939,7 @@ f)  If the fuel passes the tests outlined above in Section 500.2 item
     > explicit written permission of their Fuel Quality Assurance
     > Department or in the instance of a private aircraft, the owner.
 
-######### CAUTION 
+ CAUTION 
 
 > If the fuel is found to be contaminated, the fuel shall be held in
 > quarantine until selected fuel quality, purity or specification tests
@@ -4961,7 +4957,7 @@ f)  If the fuel passes the tests outlined above in Section 500.2 item
 >
 > **500.3 DE-FUEL FOR POSSIBLE CONTAMINATION**
 
-######### CAUTION 
+ CAUTION 
 
 > **Receive fuel into an Empty vehicle whenever possible, or other
 > vehicle equipped for this purpose.**
@@ -5007,7 +5003,7 @@ g.  Selected product tests and expected acceptance criteria are to be
     they will bear the costs incurred in the disposal of the product as
     well as costs for cleaning the Refueler tank and filter change.
 
-###### ••• 
+ ••• 
 
 **DEFUELPROCEDURES AFQC-500**
 
@@ -5017,11 +5013,11 @@ November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-######## AIRCRAFTACCIDENT/INCIDENT 
+ AIRCRAFTACCIDENT/INCIDENT 
 
 **FUEL QUALITY CONTROL PROCEDURES AFQC-600**
 
-######### 600.1 EMERGENCY PROCEDURES (General) 
+ 600.1 EMERGENCY PROCEDURES (General) 
 
 > In the event of an incident/accident involving an aircraft fueled by
 > our company, the procedures set forth herein must be carried out
@@ -5038,7 +5034,7 @@ November 2025 © 2024 FSM Group
 > shipping materials (packaging, labels, tape, etc.) for the shipping of
 > sample containers.
 
-######### 600.2 UPON NOTIFICATION 
+ 600.2 UPON NOTIFICATION 
 
 > Discontinue any additional fueling utilizing the effected grade and
 > type of product until all outlined procedures have been completed
@@ -5190,7 +5186,7 @@ i)  Record complete detailed notes on reported accident and
 
 j)  Obtain written statements from all employees involved.
 
-k)  Refer to SP \# 108 and follow guidelines.
+k)  Refer to SP \ 108 and follow guidelines.
 
 l)  No information shall be released to external parties unless reviewed
     and approved by FSM Corporate. Utilize FSM 7.2.1 OB to record
@@ -5200,7 +5196,7 @@ l)  No information shall be released to external parties unless reviewed
 > released for return to service will be made by the Fuel Quality
 > Control Department
 
-######### NOTE 
+ NOTE 
 
 > **If it is determined that the fuel samples will have to be sent to a
 > laboratory for analysis, this process of shipping and handling must
@@ -5214,9 +5210,9 @@ l)  No information shall be released to external parties unless reviewed
 > very important to keep accurate tracking of the chain of custody of
 > the sample(s).**
 
-####### ••• 
+ ••• 
 
-######## DOCUMENTATION (RECORDS) 
+ DOCUMENTATION (RECORDS) 
 
 > **700.1 GENERAL**
 >
@@ -5272,7 +5268,7 @@ d)  All entries on the Fuel Quality Control Records must be made in
 > the initials be, once again, written with the person\'s full name and
 > title adjacent to it. **ALL ENTRIES MUST BE MADE LEGIBLY.**
 
-######### DOCUMENTATION (RECORDS) 
+ DOCUMENTATION (RECORDS) 
 
 > **NOTE**
 >
@@ -5336,7 +5332,7 @@ c)  The legible signature or initials of the person performing the task
     3.  Records shall indicate when fueling equipment and/or facilities
         are not in service and why.
 
-######### DOCUMENTATION (RECORDS) 
+ DOCUMENTATION (RECORDS) 
 
 4)  Retain records (including all supporting documentation) in local
     > files as follows:
@@ -5399,13 +5395,13 @@ c)  The legible signature or initials of the person performing the task
 > **The aforementioned ratings are the only rating markings that you are
 > allowed to use, unless the forms indicate otherwise.**
 
-######### DOCUMENTATION (RECORDS) 
+ DOCUMENTATION (RECORDS) 
 
 November 2025 © 2024 FSM Group
 
 Printed Copies are for Reference Only
 
-######### DOCUMENTATION (RECORDS) 
+ DOCUMENTATION (RECORDS) 
 
 > **700.2.1 DOCUMENTATION**
 >
@@ -5473,7 +5469,7 @@ Printed Copies are for Reference Only
 > equipment being removed from service. If certificates cannot be
 > located then the hose must be changed.**
 
-######### DOCUMENTATION (RECORDS) 
+ DOCUMENTATION (RECORDS) 
 
 > **Section 7 - Fuel Filter Qualification or Similarity Data Sheets.**
 >
@@ -5487,7 +5483,7 @@ Printed Copies are for Reference Only
 >
 > **Section 8 -- Miscellaneous Data and Information**
 
-#######  ••• 
+  ••• 
 
 November 2025 © 2024 FSM Group
 
@@ -5501,7 +5497,7 @@ November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-######### SELF AUDIT GUIDE AND PROCEDURES AFQC-800
+ SELF AUDIT GUIDE AND PROCEDURES AFQC-800
 
 > **800.1 POLICY**
 
@@ -5559,7 +5555,7 @@ November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-######### SELF AUDIT GUIDE AND PROCEDURES AFQC-800
+ SELF AUDIT GUIDE AND PROCEDURES AFQC-800
 
 > **800.6 ACTION ITEM RESOLUTION AND FINAL CLOSURE**
 >
@@ -5573,13 +5569,13 @@ November 2025 © 2024 FSM Group
 > critical components of the Fuel Quality Control Program, industry
 > updates and changes, and identified deficiency trends.
 
-######## ••• 
+ ••• 
 
 November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-######### INSTRUCTORS GUIDE AFQC-900
+ INSTRUCTORS GUIDE AFQC-900
 
 > **900.1 TRAINEE LEVEL:**
 >
@@ -5636,7 +5632,7 @@ November 2025 © 2024 FSM Group
 
 Printed Copies are for Reference Only
 
-######### INSTRUCTORS GUIDE AFQC-900
+ INSTRUCTORS GUIDE AFQC-900
 
 > **900.5 OBJECTIVES:**
 >
@@ -5702,7 +5698,7 @@ November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
 
-######### INSTRUCTORS GUIDE AFQC-900 
+ INSTRUCTORS GUIDE AFQC-900 
 
 > **900.7 EVALUATION:**
 >
@@ -5806,9 +5802,10 @@ November 2025 © 2024 FSM Group
 > control. It is the responsibility of the employee that discovers a
 > conflict to report it their management team for resolution.
 
-######## ••• 
+ ••• 
 
 November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
+
 
