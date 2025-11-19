@@ -217,6 +217,11 @@ RESPONSIBILITIES**............................................
 > RESOLUTION...........................\......\..........................
 > 1000.4
 
+
+
+--> Seperated chapters begin here
+
+
  **WAIVERS AFQC-20** 
 
 **SUMMARY:**
@@ -5807,5 +5812,6 @@ November 2025 © 2024 FSM Group
 November 2025 © 2024 FSM Group
 
 > Printed Copies are for Reference Only
+
 
 
